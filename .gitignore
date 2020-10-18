@@ -5,3 +5,5 @@ Personal/
 *.aux
 *.cfg
 .DS_Store
+vEne/include/
+vEnv/bin
