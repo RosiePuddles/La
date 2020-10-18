@@ -1,0 +1,7 @@
+vEnv/
+Personal/
+
+*.log
+*.aux
+*.cfg
+.DS_Store
